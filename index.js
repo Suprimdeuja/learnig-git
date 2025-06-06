@@ -4,3 +4,10 @@ console.log("hey handsome");
 function puti(){
     console.log("hi everyone");
 }
+
+
+
+
+function hello(){
+    
+}
